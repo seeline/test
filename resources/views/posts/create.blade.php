@@ -6,7 +6,7 @@
 
 <div class="col-sm-8 blog-main">
 
-	<h1> Change</h1>
+	<h1>Publish A Post</h1>
 
 	<hr>
 <form method="POST" action="/posts">

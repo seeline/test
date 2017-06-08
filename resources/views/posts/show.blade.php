@@ -3,10 +3,10 @@
 @section ('content')
 
 	<div class="col-sm-8 blog-main">
-		<div class="blog-post">
-			<h1>A Place to show the posts.</h1>
-		</div>
+
+		<h1>{{ $post->title}}</h1>
+
+		{{$post->body}}
+		
 	</div>
 @endsection
-
-
