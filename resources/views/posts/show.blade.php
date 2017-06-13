@@ -32,6 +32,28 @@
 
 		</div>
 
+		<hr>
+
+		<div class-"card">
+
+			<div class= "card-block">
+
+				<form>
+
+					<div class="form-group">
+
+						<textarea name="body"  placeholder="Your comment here:"class="form-control">
+
+						</textarea>
+
+					</div>
+
+				</form>
+
+			</div>
+
+		</div>
+
 	</div>
 
 @endsection
