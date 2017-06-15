@@ -12,7 +12,7 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
-    <link href="{{ URL::asset('css/blog.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('css/app.css') }}" rel="stylesheet">
   </head>
 
   <body>
@@ -26,7 +26,7 @@
         <p class="lead blog-description">An example blog template built with Bootstrap.</p>
       </div>
    </div>
-	
+
 	<div class="container">
 
 		<div class="row">
@@ -44,5 +44,3 @@
 
   </body>
 </html>
-
-
